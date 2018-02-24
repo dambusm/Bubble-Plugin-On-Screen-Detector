@@ -1,0 +1,11 @@
+{
+    "assets": {
+        "AAv": {
+            "name": "in-view",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1513363062221x138670728076249360/in-view.min.js"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}
